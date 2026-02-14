@@ -1,0 +1,13 @@
+
+pymc
+arviz
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+
+japanize-matplotlib
+
+jupyterlab
+ipykernel
